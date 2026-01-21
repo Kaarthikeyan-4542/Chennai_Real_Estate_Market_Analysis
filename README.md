@@ -16,4 +16,4 @@ An end-to-end data analysis project to identify pricing trends and luxury hotspo
 ## 📂 How to Run
 1.  Clone the repo.
 2.  Run `pip install -r requirements.txt`.
-3.  Execute `src/scraper.py` to fetch fresh data.
+3.  Execute `clean_scraper.ipynb` to fetch fresh data.
