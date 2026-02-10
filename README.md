@@ -4,7 +4,7 @@
 An end-to-end data analysis project to identify pricing trends and luxury hotspots in the Chennai real estate market.
 
 ## 🛠️ Tech Stack
-* **Python (Selenium):** Web scraped 1,400+ listings from [Website Name].
+* **Python (Selenium):** Web scraped 1,400+ listings from MagicBricks.com.
 * **Pandas:** Cleaned data, removed duplicates, and extracted "BHK" using Regex.
 * **Power BI:** Built an interactive dashboard to visualize price distribution and market segmentation.
 
